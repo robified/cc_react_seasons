@@ -10,7 +10,8 @@ Concepts learned:
 - Initializing state through constructors
 - Updating state props
 - Handling errors
-- Rendering content condition- Lifecycle methods
+- Rendering content condition
+- Lifecycle methods
 - Refactor data loading and alternative state initialization
 - Pass state as props
 - Ternary expressions in JSX
